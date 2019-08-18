@@ -24,7 +24,7 @@ cd basicCalculator
 
 ## View the application
 
-visit:
+visit: https://jayhansea.github.io/basicCalculator/
 
 ## Technologies
 
